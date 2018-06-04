@@ -1,17 +1,18 @@
-body
+body {
   font-size: 14px;
 }
 
 nav {
-  background color: yellow;
+  background-color: yellow;
   height: 100px;
-  margin-top: -10px;
-  position: fixed;
   width: 100%;
+  margin-top: -10px;
+  position: absolute;
 
+}
 
 section {
-  margin: 0 auto;
+  margin: auto;
   width: 60%;
 }
 
@@ -22,7 +23,7 @@ h1 {
 
 .example, h3 {
   padding-top: 30px;
-  text-align center
+  text-align: center;
 }
 
 h3 {
@@ -34,3 +35,11 @@ h3 {
   height: 100px;
   margin 10px 0;
   width: 100%;
+}
+
+.element_red {
+  background-color: red;
+  height: 100px;
+  margin 10px 0;
+  width: 100%;
+}
