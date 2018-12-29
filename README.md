@@ -1,1 +1,1 @@
-# css-exercise-one
+# a starter project to get into CSS
